@@ -56,7 +56,7 @@ class ApisController extends Controller
      */
     public function edit($id)
     {
-        return json_encode('edit');
+        
     }
 
     /**
